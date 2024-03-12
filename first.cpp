@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+int main(){
 int a, b, c;
 cout<<"Prem Lal ------> 21BCS11722"<<endl;
 cout<<"Neter the two numbers to add"<<endl;
